@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Profile.vue matches the snapshot 1`] = `
+<v-card>
+  <v-card-title>
+    Профіль користувача
+  </v-card-title>
+  <v-card-text>
+    <v-list>
+      <v-list-item>
+        <v-list-item-content>
+          Ім’я: Batura Vitaliy
+        </v-list-item-content>
+      </v-list-item>
+      <v-list-item>
+        <v-list-item-content>
+          Email: test@example.com
+        </v-list-item-content>
+      </v-list-item>
+      <v-list-item>
+        <v-list-item-content>
+          Стать: Чоловік
+        </v-list-item-content>
+      </v-list-item>
+      <v-list-item>
+        <v-list-item-content>
+          Дата народження: 2000-01-01
+        </v-list-item-content>
+      </v-list-item>
+      <!--v-if-->
+    </v-list>
+  </v-card-text>
+</v-card>
+`;
